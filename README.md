@@ -1,6 +1,6 @@
 # ANSYS Bridge Analysis Project
 
-![Project Banner](project_banner.png) <!-- You can add a banner image here -->
+<!-- ![Project Banner](project_banner.png)  You can add a banner image here -->
 
 Welcome to the ANSYS Bridge Analysis project repository! This project focuses on performing structural analysis of bridges using ANSYS software. Whether you're a civil engineering enthusiast or a student, this project aims to provide valuable insights into bridge behavior under different conditions.
 
