@@ -41,7 +41,7 @@ In this project, we use ANSYS software to analyze the structural behavior of bri
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/ansys-bridge-analysis.git
+   git clone https://github.com/Chaitanyaputhran/ansys_bridge_analysis.git
    cd ansys-bridge-analysis
 ## Usage
 
